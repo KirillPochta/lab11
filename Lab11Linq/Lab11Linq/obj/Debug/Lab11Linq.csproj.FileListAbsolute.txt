@@ -1,0 +1,7 @@
+C:\Users\ByTech\source\repos\Lab11Linq\Lab11Linq\bin\Debug\Lab11Linq.exe.config
+C:\Users\ByTech\source\repos\Lab11Linq\Lab11Linq\bin\Debug\Lab11Linq.exe
+C:\Users\ByTech\source\repos\Lab11Linq\Lab11Linq\bin\Debug\Lab11Linq.pdb
+C:\Users\ByTech\source\repos\Lab11Linq\Lab11Linq\obj\Debug\Lab11Linq.csprojAssemblyReference.cache
+C:\Users\ByTech\source\repos\Lab11Linq\Lab11Linq\obj\Debug\Lab11Linq.csproj.CoreCompileInputs.cache
+C:\Users\ByTech\source\repos\Lab11Linq\Lab11Linq\obj\Debug\Lab11Linq.exe
+C:\Users\ByTech\source\repos\Lab11Linq\Lab11Linq\obj\Debug\Lab11Linq.pdb
